@@ -1,0 +1,7 @@
+pytorch-gpu
+torchvision
+imageio
+configargparse
+tqdm
+jupyter
+jupyterlab

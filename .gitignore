@@ -1,0 +1,10 @@
+.vscode/
+.DS_Store/
+
+data/
+archive/
+logs/*/*/*png
+*tar
+*[.log, .out, .pkl]
+*npy
+*pyc
