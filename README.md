@@ -1,35 +1,31 @@
 Final Research Report Available CS543_Final_Project.pdf in repo
 
-[Shengzhu Yin] yin20@illinois.edu
-[Akshat Sharma] akshat7@illinois.edu
-[Alan Yao] alaney2@illinois.edu
+Shengzhu Yin yin20@illinois.edu
+Akshat Sharma akshat7@illinois.edu
+Alan Yao alaney2@illinois.edu
 
 We evaluate the latent space induced by training NeRF
 models over multiple object instances. We learn linear
 walks in the NeRF latent space to determine if generative
 training disentangles semantically relevant attributes and
 learns properties such as color, zoom, and shape. We show
-that EditNeRF produces a latent space that is steerable in
+that EditNeRF produces a latent space that is steerablet in
 color but can not produce zoomed-in/out object instances,
 which is expected based on the EditNeRF training procedure.
 
-You can find the paper in the file: **CS543_Final_Project.pdf**
-
-
-
-NeRF model Used in this work:
+Original NeRF Used:
 
 # Editing Conditional Radiance Fields
 
 #### [Project](http://editnerf.csail.mit.edu/) |   [Paper](http://editnerf.csail.mit.edu/paper.pdf) |   [Video](https://www.youtube.com/watch?v=9qwRD4ejOpw) |   [Demo](https://colab.research.google.com/github/stevliu/editnerf/blob/master/editnerf.ipynb)
 
 **Editing Conditional Radiance Fields** <br>
-[Steven Liu]
-[Xiuming Zhang]
-[Zhoutong Zhang]
-[Richard Zhang]
-[Jun-Yan Zhu]
-[Bryan Russell]
+[Steven Liu](http://people.csail.mit.edu/stevenliu/),
+[Xiuming Zhang](http://people.csail.mit.edu/xiuming/),
+[Zhoutong Zhang](https://ztzhang.info/),
+[Richard Zhang](https://richzhang.github.io/),
+[Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/),
+[Bryan Russell](http://bryanrussell.org/) <br>
 MIT, Adobe Research, CMU<br>
 ICCV 2021.
 
