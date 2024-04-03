@@ -13,7 +13,11 @@ that EditNeRF produces a latent space that is steerable in
 color but can not produce zoomed-in/out object instances,
 which is expected based on the EditNeRF training procedure.
 
-Original NeRF Used:
+You can find the paper in the file: **CS543_Final_Project.pdf**
+
+
+
+NeRF model Used in this work:
 
 # Editing Conditional Radiance Fields
 
