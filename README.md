@@ -9,7 +9,7 @@ models over multiple object instances. We learn linear
 walks in the NeRF latent space to determine if generative
 training disentangles semantically relevant attributes and
 learns properties such as color, zoom, and shape. We show
-that EditNeRF produces a latent space that is steerablet in
+that EditNeRF produces a latent space that is steerable in
 color but can not produce zoomed-in/out object instances,
 which is expected based on the EditNeRF training procedure.
 
