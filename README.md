@@ -1,4 +1,4 @@
-# Neural Radiance Fields (NeRF) Experiments: Interpolation of color/shape, Steering generative model on latent space, and clustering / dimensional reduction via t-SNE algorithm
+## Neural Radiance Fields (NeRF) Experiments: Interpolation of color/shape, Steering generative model on latent space, and clustering / dimensional reduction via t-SNE algorithm
 
 Shengzhu Yin yin20@illinois.edu
 Akshat Sharma akshat7@illinois.edu
